@@ -46,8 +46,8 @@ the R squared value to determine how well the model fits the data. Pylab was use
 <p>Below are a couple of graphs to visualize subsets of the data. The intuition is if climate is changing 
 then it may be apparent by looking at either the average annual temperature or the average temperature on a particular day over time.</p>
 <br />
-<img src="images/Figure_1.png" alt="Demo">
-<img src="images/Figure_2.png" alt="Demo">
+<img src="images/san-fran-annual.png" alt="Demo">
+<img src="images/san-fran-daily.png" alt="Demo">
 <br/>
 <p> Give it a try for yourself!</p>
 
