@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zwcoop/ClimateChange">
-    <img src="images/climate-icon.png" alt="Logo" width="100" height="100">
+    <img src="climate-change/images/climate-icon.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Climate Change</h3>
@@ -38,7 +38,7 @@
 ## About The Project
 
 <div align="center">
-<img src="images/climate-stock.jpeg" alt="Demo">
+<img src="climate-change/images/climate-stock.jpeg" alt="Demo">
 </div>
 <br />
 <p>To assess climate change throughout various cities in the US, we first import and parse the data obtained from NCIE. We then use the Numpy library to fit the data to a first order polynomial. A function was defined to calcuate
@@ -46,8 +46,8 @@ the R squared value to determine how well the model fits the data. Pylab was use
 <p>Below are a couple of graphs to visualize subsets of the data. The intuition is if climate is changing 
 then it may be apparent by looking at either the average annual temperature or the average temperature on a particular day over time.</p>
 <br />
-<img src="images/san-fran-annual.png" alt="Demo">
-<img src="images/san-fran-daily.png" alt="Demo">
+<img src="climate-change/images/san-fran-annual.png" alt="Demo">
+<img src="climate-change/images/san-fran-daily.png" alt="Demo">
 <br/>
 <p> Give it a try for yourself!</p>
 
